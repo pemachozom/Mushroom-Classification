@@ -63,6 +63,7 @@ Asana helped us assign tasks, set deadlines, and stay updated — all in one pla
 
 The dataset used is the [UCI Mushroom Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification), containing 8,124 instances with 22 attributes.
 In addition to this, we also **manually collected mushroom data available in Bhutan** to enhance the relevance and diversity of our model. These local samples helped us analyze species that are commonly found in the Bhutanese environment and added a regional perspective to the classification task.
+
 ---
 
 ## 🚀 How to Run
