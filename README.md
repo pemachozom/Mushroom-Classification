@@ -19,6 +19,16 @@ The Mushroom Classification project aims to build a machine learning model that 
 - Interpret model results and make data-driven conclusions
 
 ---
+### 🧰 Why We Used Asana
+📋 Task Organization
+We structured our project into clear tasks and sections like UI, backend, and testing.
+
+👥 Team Collaboration
+Asana helped us assign tasks, set deadlines, and stay updated — all in one place.
+
+🔗 [Asana Project Board](https://app.asana.com/1/1209558684444853/project/1209558703289971/board/1209558649788351)
+
+---
 
 ## 🛠️ Technologies Used
 
