@@ -33,12 +33,10 @@ The Mushroom Classification project aims to build a machine learning model that 
 ## 👥 Team Members
 
 - Pema Chozom  
-- [Member 2 Name]  
-- [Member 3 Name]  
-- [Member 4 Name]  
-- [Member 5 Name]  
-
-> 📌 *Replace placeholders with actual names.*
+- Deki Lhazom
+- Sonam Choden 
+- Dal Bdr Rai 
+- Tenzin Namgyal Yeshi
 
 ---
 
@@ -73,6 +71,3 @@ In addition to this, we also **manually collected mushroom data available in Bhu
 
 ✅ Successfully completed as a part of **CSC210 – MINI PROJECT II**.
 
----
-
-Let me know if you’d like to add visuals like graphs or model performance comparisons.
