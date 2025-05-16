@@ -29,6 +29,11 @@ Asana helped us assign tasks, set deadlines, and stay updated — all in one pla
 🔗 [Asana Project Board](https://app.asana.com/1/1209558684444853/project/1209558703289971/board/1209558649788351)
 
 ---
+## 🎨 Figma Design
+
+🔗 [Figma Design](https://www.figma.com/design/Enckx1OK0d4LPiml8ilMkR/Mushroom-Classification?t=3hHAuCRWUlad5UXj-0)
+
+---
 
 ## 🛠️ Technologies Used
 
